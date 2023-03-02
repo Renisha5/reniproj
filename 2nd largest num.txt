@@ -1,0 +1,32 @@
+1.Start
+
+2.Declare variables a,b,c.
+
+3.Read variables a,b,c.
+
+3.if(a>=b && a>=c)
+    
+     if(b>= c)
+             
+        Print "b is the second largest number"
+     else
+       
+        Print "c is the second largest number"
+  else if(b>= c)
+
+        if(a >= c)
+        
+            Print "a is the second largest number"
+        else
+
+           Print "c is the second largest number"
+          
+  else 
+      if(a >= b)
+    
+        Print "a is the second largest number"
+      else
+
+        Print "b is the second largest number"
+  
+4.Stop
